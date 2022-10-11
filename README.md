@@ -14,7 +14,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-![Moayad GitHub stats](https://github-readme-stats.vercel.app/api?username=moayadalhaj&show_icons=true&theme=dark&include_all_commits=true)
+![Moayad GitHub stats](https://github-readme-stats.vercel.app/api?username=moayadalhaj&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moayadalhaj&theme=dark)
 
